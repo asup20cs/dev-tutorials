@@ -34,7 +34,7 @@ Write IaC =====> ```terraform init``` =====> ```terraform plan``` =====> ```terr
   
 ### Creating a machine using AWS as a provider
 #### Project Files and What they do
-![project files](src\content\posts\terraform\terraformbasics\image1.jpg)
+![project files](src/content/posts/terraform/terraformbasics/image1.jpg)
 - **main.tf** contains the resource defining code and provider defining code.
 ```terraform
     terraform {
